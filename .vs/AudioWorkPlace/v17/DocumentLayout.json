@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|c:\\programing studio\\audioworkplace\\first\\audioworkplace\\sx\\reverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|solutionrelative:sx\\reverb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|c:\\programing studio\\audioworkplace\\first\\audioworkplace\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|c:\\programing studio\\audioworkplace\\first\\audioworkplace\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|c:\\programing studio\\audioworkplace\\first\\audioworkplace\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|c:\\programing studio\\audioworkplace\\first\\audioworkplace\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AFAD59-844A-4E25-9F2C-6ED63FEBC0EE}|AudioWorkPlace.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reverb.cs",
+              "DocumentMoniker": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\SX\\Reverb.cs",
+              "RelativeDocumentMoniker": "SX\\Reverb.cs",
+              "ToolTip": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\SX\\Reverb.cs",
+              "RelativeToolTip": "SX\\Reverb.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:29:24.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:23:57.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:23:54.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T00:21:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\PROGRAMING STUDIO\\AudioWorkPlace\\First\\AudioWorkPlace\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:21:20.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
